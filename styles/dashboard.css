@@ -27,7 +27,10 @@ header h2 {
 }
 .notifier {
     position: absolute;
-    margin-left: 80%;
+    margin-left: 78%;
+}
+.notifier i {
+    margin: 20px auto;
 }
 .display-picture {
     position: absolute;
@@ -54,7 +57,7 @@ header h2 {
 .search-txt {
     width: 350px;
     height: 30px;
-    padding: 5px;
+    padding: 5px 10px 5px 20px;
     border-radius: 20px;
     margin: 10px auto;
 }
